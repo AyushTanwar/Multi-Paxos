@@ -1,8 +1,5 @@
-
-any commits.
-
 ## Project Overview
-In this assignment, I have implement a fault-tolerant key-value store on 
+In this project, I have implemented a fault-tolerant key-value store on 
 top of Paxos. 
 
 The key-value store includes three kinds of operations: Put, Get, and Append.
